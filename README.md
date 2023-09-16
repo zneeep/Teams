@@ -18,6 +18,7 @@ If you want to test it , here are the steps for compilation and usage :
  4- Launch the my_teams server using the command "./myteams_server port" and replace port by the port number you want the server to listen to.  
  
  5- Launch as many clients you want in other terminals by using "./myteams_cli ip port" and replace the IP by the IP adress of the server you launched (127.0.0.1 if the server is running locally),     then replace the port by the port number you want your client to use/listen to. 
+
  
     DON'T FORGET TO DO STEP 3 FOR EVERY TERMINAL YOU'RE LAUNCHING THE CLIENT ON.  
  
