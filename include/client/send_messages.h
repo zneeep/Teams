@@ -1,0 +1,15 @@
+/*
+** EPITECH PROJECT, 2023
+** send_messages.h
+** File description:
+** Created by Arthur MAQUET
+** First edition:
+** 14:15:41 17/04/2023
+*/
+
+#ifndef B_NWP_400_LYN_4_1_MYTEAMS_LUCAS_SIRAUX_INCLUDE_CLIENT_SEND_MESSAGES_H_
+#define B_NWP_400_LYN_4_1_MYTEAMS_LUCAS_SIRAUX_INCLUDE_CLIENT_SEND_MESSAGES_H_
+
+void send_messages(int socket_fd);
+
+#endif //B_NWP_400_LYN_4_1_MYTEAMS_LUCAS_SIRAUX_INCLUDE_CLIENT_SEND_MESSAGES_H_

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/client.dir/src/client/main.c.o CMakeFiles/client.dir/src/common/ip_port_validation.c.o -o myteams_client 

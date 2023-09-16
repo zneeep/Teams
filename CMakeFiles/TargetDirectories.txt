@@ -1,0 +1,4 @@
+/home/lucas/Projects/B-NWP-400-LYN-4-1-myteams-lucas.siraux/CMakeFiles/client.dir
+/home/lucas/Projects/B-NWP-400-LYN-4-1-myteams-lucas.siraux/CMakeFiles/server.dir
+/home/lucas/Projects/B-NWP-400-LYN-4-1-myteams-lucas.siraux/CMakeFiles/edit_cache.dir
+/home/lucas/Projects/B-NWP-400-LYN-4-1-myteams-lucas.siraux/CMakeFiles/rebuild_cache.dir
