@@ -9,18 +9,24 @@ We had to implement a database so that the already existing users are saved when
   
 If you want to test it , here are the steps for compilation and usage : 
 
+
  1- Clone the repository using Git  
+
  
  2- Compile the program using the command "make" at the root of the repository  
+
  
  3- Use the following command at the root of the repository : export LD_LIBRARY_PATH=/libmyteams:$LD_LIBRARY_PATH  
+
  
  4- Launch the my_teams server using the command "./myteams_server port" and replace port by the port number you want the server to listen to.  
+
  
  5- Launch as many clients you want in other terminals by using "./myteams_cli ip port" and replace the IP by the IP adress of the server you launched (127.0.0.1 if the server is running locally),     then replace the port by the port number you want your client to use/listen to. 
 
  
     DON'T FORGET TO DO STEP 3 FOR EVERY TERMINAL YOU'RE LAUNCHING THE CLIENT ON.  
+
  
  6- Use the following commands as a client, notifications are triggered on the client side or on the server side for each command used :  
  
